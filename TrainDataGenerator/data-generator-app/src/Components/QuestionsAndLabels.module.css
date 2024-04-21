@@ -1,0 +1,37 @@
+.container{
+display: flex;
+flex-direction: row;
+}
+
+.inputs{
+    width: 20%;
+    margin: 10px;
+}
+
+.question{
+    
+    margin: 10px; 
+}
+
+
+@media only screen and (max-width: 700px) {
+
+    .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .inputs{
+        width: 90%;
+        margin: 10px;
+    }
+    
+    .question{
+        width: 90%;
+        margin: 10px; 
+    }
+
+}

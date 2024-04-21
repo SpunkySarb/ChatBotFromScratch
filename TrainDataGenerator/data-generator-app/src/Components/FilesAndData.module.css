@@ -1,0 +1,40 @@
+.fileAndExportEmb{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding-left: 20px;
+padding-right: 20px;
+
+}
+
+.tableContainer{
+    
+    display: flex;
+    justify-content: center;
+    
+    }
+    
+    
+    
+
+@media only screen and (max-width: 700px) {
+
+    .fileAndExportEmb{
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+
+    }
+
+    .tableContainer{
+    
+        display: flex;
+        justify-content: center; 
+        
+        }
+        
+    
+
+    
+}
