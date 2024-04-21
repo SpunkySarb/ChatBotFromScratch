@@ -10,7 +10,7 @@ So I developed a method to train and deploy Models in JavaScript after training 
 >Step 1: Generate Training Data
 You can easily train data using 👉NextJS App👈 and
 also Export the Embeddings from USE(Universal Sentence Encoder)
->[example][https://i.ibb.co/rb1GPwd/Screenshot-2024-04-21-at-5-08-28-AM.png]
+>[example](https://i.ibb.co/rb1GPwd/Screenshot-2024-04-21-at-5-08-28-AM.png)
 
 > Step 2: Train the model and Convert to JavaScript using 👉ModelTraining.ipynb👈
 Train the model as you wish and then convert it to the tfjs format.
