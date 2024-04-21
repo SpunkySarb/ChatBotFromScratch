@@ -16,6 +16,7 @@ Train the model as you wish and then convert it to the tfjs format.
 
 >Step 3: Deploy the model using 👉NodeJS_Deployment👈
 Copy the JavaScript Model into NodeJs Folder and then import and test Hooray!! 🎉🎉
+<img src="https://i.ibb.co/ftCnkC1/ezgif-6-51e3da6360.gif"/>
 
 
 ## Congratulations !! You have made your Own ChatBot and now it's time to deploy it in your website.
